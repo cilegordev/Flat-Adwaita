@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="384pt" height="384pt" version="1.1" viewBox="0 0 384 384" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="e" x1="24.161" x2="470.92" y1="255.65" y2="-4.7024" gradientTransform="matrix(0.83186, 0, 0, 0.83186, 32.259998, 47.327999)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#367bf0"/>
+      <stop stop-opacity=".99608" offset="1" style="stop-color: rgb(63, 227, 231);"/>
+    </linearGradient>
+    <clipPath id="c">
+      <path d="m111 119h177v23h-177z"/>
+    </clipPath>
+    <clipPath id="b">
+      <path d="m177 130h45v89h-45z"/>
+    </clipPath>
+    <clipPath id="a">
+      <path d="m111 207h177v89h-177z"/>
+    </clipPath>
+    <clipPath id="d">
+      <rect width="384" height="384"/>
+    </clipPath>
+    <g clip-path="url(#d)">
+      <g clip-path="url(#c)"/>
+      <g clip-path="url(#b)"/>
+      <g clip-path="url(#a)"/>
+    </g>
+  </defs>
+  <g style="" transform="matrix(1, 0, 0, 1.092077, 0, -48.376999)">
+    <rect x="47.428" y="94.902" width="289.14" height="187.8" rx="6.651" ry="6.211" fill="#272a34" style="paint-order:normal"/>
+    <rect x="47.43" y="263.28" width="289.14" height="20.687" style="paint-order:normal"/>
+    <path d="M 19.879 272.02 L 19.879 279.939 L 19.969 279.939 C 19.944 280.153 19.918 280.367 19.918 280.587 L 19.918 281.496 C 19.918 286.227 19.926 286.372 26.993 286.372 L 357.043 286.372 C 364.109 286.372 364.113 286.085 364.113 281.354 C 364.113 281.354 364.122 280.842 364.113 280.587 C 364.104 280.37 364.087 280.153 364.066 279.939 L 364.075 277.191 L 364.075 272.02 L 19.879 272.02 Z" fill="#fff" fill-rule="evenodd" opacity=".2" stroke="#000" stroke-width="8.2576"/>
+    <path d="M 19.879 272.02 L 19.879 279.939 L 19.969 279.939 C 19.944 280.153 19.918 280.367 19.918 280.587 L 19.918 281.496 C 19.918 286.227 19.926 286.372 26.993 286.372 L 357.043 286.372 C 364.109 286.372 364.113 286.085 364.113 281.354 C 364.113 281.354 364.122 280.842 364.113 280.587 C 364.104 280.37 364.087 280.153 364.066 279.939 L 364.075 277.191 L 364.075 272.02 L 19.879 272.02 Z" fill="#fff" fill-rule="evenodd" stroke-width=".90337"/>
+    <rect x="52.359" y="100.57" width="279.28" height="159.42" rx="3.124" ry="3.124" stroke-width=".83186" fill="url(#e)"/>
+  </g>
+</svg>
