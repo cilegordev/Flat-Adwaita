@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Adwaita-light-PONIES
+Comment=Adwaita kali xfce4
+Encoding=UTF-8
+
+
+[X-GNOME-Metatheme]
+Name=Adwaita-light-PONIES
+Encoding=UTF-8
+GtkTheme=Adwaita-light-PONIES
+MetacityTheme=Adwaita-light-PONIES
+IconTheme=Flat-ZOMG-light
+CursorTheme=Adwaita
+CursorSize=24
+ButtonLayout=:minimize,maximize,close
