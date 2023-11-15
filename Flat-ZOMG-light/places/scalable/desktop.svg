@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="512" height="512" version="1.1" viewBox="0 0 384 384" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="e" x1="24.161" x2="470.92" y1="255.65" y2="-4.7024" gradientTransform="matrix(0.851583, 0, 0, 1.187813, 28.474546, -12.63091)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#367bf0"/>
+      <stop stop-opacity=".99608" offset="1" style="stop-color: rgb(63, 227, 231);"/>
+    </linearGradient>
+  </defs>
+  <rect x="44.002" y="55.3" width="295.996" height="268.16" rx="6.651" ry="6.211" fill="#272a34" style="paint-order:normal"/>
+  <rect x="44.004" y="295.727" width="295.996" height="29.539" style="paint-order:normal"/>
+  <path d="M 15.8 308.207 L 15.8 319.514 L 15.892 319.514 C 15.867 319.82 15.84 320.125 15.84 320.44 L 15.84 321.738 C 15.84 328.493 15.848 328.7 23.083 328.7 L 360.958 328.7 C 368.192 328.7 368.196 328.29 368.196 321.535 C 368.196 321.535 368.205 320.804 368.196 320.44 C 368.187 320.13 368.169 319.82 368.148 319.514 L 368.157 315.59 L 368.157 308.207 L 15.8 308.207 Z" fill="#fff" fill-rule="evenodd" opacity=".2" stroke="#000" stroke-width="8.2576"/>
+  <path d="M 15.8 308.207 L 15.8 319.514 L 15.892 319.514 C 15.867 319.82 15.84 320.125 15.84 320.44 L 15.84 321.738 C 15.84 328.493 15.848 328.7 23.083 328.7 L 360.958 328.7 C 368.192 328.7 368.196 328.29 368.196 321.535 C 368.196 321.535 368.205 320.804 368.196 320.44 C 368.187 320.13 368.169 319.82 368.148 319.514 L 368.157 315.59 L 368.157 308.207 L 15.8 308.207 Z" fill="#fff" fill-rule="evenodd" stroke-width=".90337"/>
+  <rect x="49.05" y="63.393" width="285.902" height="227.636" rx="3.124" ry="3.124" stroke-width=".83186" fill="url(#e)"/>
+</svg>
