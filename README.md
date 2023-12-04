@@ -29,14 +29,18 @@ sudo cp Flat-Adwaita/pixmaps/* /usr/share/pixmaps/
 ## And use tools to apply
 - xfce4-appearance-settings
 - nwg-look
-- dconf-editor to actived this bar
-/org/gnome/terminal/legacy/headerbar
+- dconf-editor to actived this bar </br>
+/org/gnome/terminal/legacy/headerbar </br>
+Use default value set to : off </br>
+Custom value set to : True </br>
+```bash
 gsettings set org.gnome.Terminal.Legacy.Settings headerbar true
+```
 ![](screenshots/dconf-editor.png)
 - gnome-terminal
 ![](screenshots/terminal.png)
-- use gtk to actived this bar
-chrome://settings/appearance
+- use gtk to actived this bar </br>
+chrome://settings/appearance </br>
 ![](screenshots/appearance.png)
 - google-chrome-stable
 ![](screenshots/google-chrome-stable.png)
