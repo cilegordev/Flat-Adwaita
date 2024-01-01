@@ -12,18 +12,19 @@
 
 ## Notes
 - Recomended for Xfce
-- Gnome Ok on Tested
-- I don't Recomend use local theme/icon
+- Gnome ok on Tested
+- I don't Recomend use local theme/icon!
 
 # To apply
 
+Clone Repository
 ```bash
 git clone https://github.com/cilegordev/Flat-Adwaita ~/Flat-Adwaita
-sudo cp -r Flat-Adwaitas/Adwaita-light-PONIES /usr/share/themes/
-sudo cp -r Flat-Adwaitas/Adwaita-dark-PONIES /usr/share/themes/
-sudo cp -r Flat-Adwaitas/Flat-ZOMG-light /usr/share/icons/
-sudo cp -r Flat-Adwaitas/Flat-ZOMG-dark /usr/share/icons/
-sudo cp Flat-Adwaita/pixmaps/* /usr/share/pixmaps/
+```
+
+Copy Theme/Icon
+```bash
+sudo cp -r ~/Flat-Adwaitas/Adwaita-light-PONIES /usr/share/themes/ && sudo cp -r ~/Flat-Adwaitas/Adwaita-dark-PONIES /usr/share/themes/ && sudo cp -r ~/Flat-Adwaitas/Flat-ZOMG-light /usr/share/icons/ && sudo cp -r ~/Flat-Adwaitas/Flat-ZOMG-dark /usr/share/icons/ && sudo cp ~/Flat-Adwaita/pixmaps/* /usr/share/pixmaps/
 ```
 
 ## And use tools to apply
