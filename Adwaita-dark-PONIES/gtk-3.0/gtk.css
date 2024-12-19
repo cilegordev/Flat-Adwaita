@@ -136,10 +136,6 @@ leaflet > headerbar:first-child {
 headerbar.default-decoration button.titlebutton,
 .titlebar.default-decoration button.titlebutton {
 
-  padding: 0 0px;
-  margin-bottom: 4px;
-  min-width: 18px;
-  min-height: 0;
   box-shadow: none;
   border-color: transparent;
   background-color: transparent;
@@ -148,10 +144,6 @@ headerbar.default-decoration button.titlebutton,
 headerbar button.titlebutton,
 .titlebar button.titlebutton {
 
-  padding: 0 0px;
-  margin-bottom: 4px;
-  min-width: 18px;
-  min-height: 0;
   box-shadow: none;
   border-color: transparent;
   background-color: transparent;
