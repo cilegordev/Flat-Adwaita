@@ -2821,7 +2821,7 @@ textview text selection:focus,
 textview text selection, iconview:selected:focus, iconview:selected, iconview text selection:focus, iconview text selection, flowbox flowboxchild:selected,
 entry selection, modelbutton.flat:selected,
 .menuitem.button.flat:selected, spinbutton:not(.vertical) selection, treeview.view:selected:focus, treeview.view:selected, row:selected, calendar:selected {
-  background-color: rgba(0, 0, 0, 0.5); }
+  background-color: #15539e; }
   label:selected, .selection-mode button.titlebutton, .view:selected:focus, .view:selected,
   .view text:selected:focus,
   textview text:selected:focus,
