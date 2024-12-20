@@ -1,3 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <path style="fill:#5c616c" d="M 8,0 C 6.34,0 5,1.34 5,3 V 8 C 5,9.66 6.34,11 8,11 9.66,11 11,9.66 11,8 V 3 C 11,1.34 9.66,0 8,0 Z M 2,7 V 8 C 2,10.97 4.16,13.43 7,13.91 V 16 H 9 V 13.91 C 11.84,13.43 14,10.97 14,8 V 7 H 12 V 8 C 12,10.23 10.23,12 8,12 5.77,12 4,10.23 4,8 V 7 Z"/>
+<?xml version="1.0"?>
+<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <image height="16" id="svg_2" width="16" x="0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABhGlDQ1BJQ0MgUHJvZmlsZQAAKM+VkT1Iw0AcxV9TpVVbHOwg4pCh6mIXFXEsVSyChdJWaNXB5NIvaNKQpLg4Cq4FBz8Wqw4uzro6uAqC4AeIs4OToouU+L+k0CJU8OC4H+/uPe7eAUKjwlSzJwqommWk4jExm1sVfa8YQB+CmIBfYqaeSC9m0HV83cPD17sIz8L/RlDJmwzwiMRRphsW8Qbx7Kalc94nDrGSpBCfE08adEHiR67LLr9xLjos8MyQkUnNE4eIxWIHyx3MSoZKPEMcVlSN8oWsywrnLc5qpcZa9+QvDOS1lTTXaY4ijiUkkIQIGTWUUYGFCK0aKSZStB/r4h9x/ElyyeQqg5FjAVWokBw/+B/87tYsTE+5SYEY0Pti2x9jgG8XaNZt+/vYtpsngPcZuNLa/moDmPskvd7WwkfA4DZwcd3W5D3gcgcYftIlQ3IkL02hUADez+ibcsDQLdC/5vbW2sfpA5ChrpZvgINDYLxI2etd3u3v7O3PM63+fgCF3HKuoUAcLQAAAAlwSFlzAAALEwAACxMBAJqcGAAAAI9JREFUOE/tk8ENhDAMBNcHlVArDfCgoisHSkg0PPBJwTgSJ93z5rm7XkVyLAWABShcKcASs5JkUQCKpCHqkqqZjVF8RaEzrJ6eFXzFv6ApALhaOTH3uxc01Cg4qd4W7MAkaU3CVdLq/h68E2AG3h66AUzuz9GTzsDgJVs4pA+b++mXTuHBZm7XqM6gmaXZA1xhesUdmEhPAAAAAElFTkSuQmCC" y="0"/>
+ </g>
 </svg>
