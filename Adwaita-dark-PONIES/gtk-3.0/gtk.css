@@ -2124,6 +2124,7 @@ stackswitcher button.text-button.circular {
 iconview text,
 textview text {
   color: white;
+  caret-color: #f7f7f7;
   background-color: #202024; }
   .view:backdrop, iconview:backdrop,
   .view text:backdrop,
@@ -2769,6 +2770,9 @@ decoration {
     box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.75); }
   .ssd decoration:backdrop {
     box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.75); }
+  .ssd.maximized decoration, .ssd.maximized decoration:backdrop {
+    box-shadow: none; }
+
   .csd.popup decoration {
     border-radius: none;
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2), 0 0 0 1px rgba(0, 0, 0, 0.65); }
