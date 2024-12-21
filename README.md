@@ -2,7 +2,7 @@
 | Preview |
 |-|
 | ![](Screenshot0.png) |
-| <div align="center"> Base on Adwaita Dark, Kali Dark, Flat Remix Blue Dark and Windows 10 Icons</div> |
+| <div align="center"> Base on Adwaita Dark, Kali Dark, Flat Remix Blue Dark, Windows 10 Icons and Mint Y Dark Blue for Cinnamon.</div> |
 
 | Preview |
 |-|
