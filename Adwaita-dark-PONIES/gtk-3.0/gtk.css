@@ -1,7 +1,7 @@
 /*****************
  * Import option * #1! IMPORT
  *****************/
-@import url("/usr/share/themes/Adwaita-dark-PONIES/gtk-3.0/gtk-import/Adwaita.css");
+@import url("../gtk-3.0/gtk-import/Adwaita.css");
 
 /***************
  * Header bars * #2! BUTTON ASSET
