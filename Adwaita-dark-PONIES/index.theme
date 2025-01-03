@@ -12,5 +12,5 @@ GtkTheme=Adwaita-dark-PONIES
 MetacityTheme=Adwaita-dark-PONIES
 IconTheme=Flat-ZOMG-dark
 CursorTheme=Adwaita
-CursorSize=24
+CursorSize=12
 ButtonLayout=:minimize,maximize,close
