@@ -5,7 +5,7 @@
 -->
 <labwc_config>
   <theme>
-    <name>Adwaita-dark-PONIES</name>
+    <name>Adwaita-dark-PONIES-xfce</name>
     <cornerRadius>0</cornerRadius>
     <dropShadows>yes</dropShadows>
     <keepBorder>no</keepBorder>
