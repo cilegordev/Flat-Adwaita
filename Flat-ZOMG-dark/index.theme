@@ -63,7 +63,6 @@ MinSize=16
 MaxSize=512
 Type=Scalable
 
-# Hacky trick for Xfce icons - - - - - - - - - - - - - - - - - - - - - - - - - -
 [apps/scalable]
 Context=Applications
 Size=16
@@ -78,7 +77,6 @@ Type=Fixed
 Context=Applications
 Size=24
 Type=Fixed
-# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 [categories/scalable]
 Context=Categories
