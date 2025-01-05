@@ -38,30 +38,25 @@ window.inactive.label.text.color: #808080
 window.inactive.button.*.image.color: #808080
 
 # Close button colors
-window.active.button.close.unpressed.image.color: #2777ff
+window.active.button.close.*.image.color: #2777ff
+# window.active.button.close.unpressed.image.color: #
 # window.active.button.close.hover.image.color: #
 # window.active.button.close.toggled.unpressed.image.color: #
 # window.active.button.close.toggled.hover.image.color: #
 
 # Max button
-window.active.button.max.unpressed.image.color: #00ff00
+window.active.button.max.*.image.color: #00ff00
+# window.active.button.max.unpressed.image.color: #
 # window.active.button.max.hover.image.color: #
 # window.active.button.max.toggled.unpressed.image.color: #
 # window.active.button.max.toggled.hover.image.color: #
 
 # Iconify button
-window.active.button.iconify.unpressed.image.color: #ff0000
+window.active.button.iconify.*.image.color: #ff0000
+# window.active.button.iconify.unpressed.image.color: #
 # window.active.button.iconify.hover.image.color: #
 # window.active.button.iconify.toggled.unpressed.image.color: #
 # window.active.button.iconify.toggled.hover.image.color: #
-
-# Global Width Settings
-padding.width: 1
-padding.height: 1
-border.width: 1
-window.handle.width: 3
-window.client.padding.width: 0
-menu.overlap.x: -5
 
 # Miscellaneous Settings
 border.color: #000000
@@ -72,14 +67,10 @@ osd.hilight.bg: flat border
 osd.hilight.bg.color: #7f1e31
 osd.hilight.bg.border.color: #c3314f
 
-# Title Justification
-menu.title.text.justify: center
-window.label.text.justify: center
-
 # Everything Else
 border.width: 1
 padding.width: 8
 padding.height: 8
 window.handle.width: 0
 window.client.padding.width: 0
-window.label.text.justify: center
+window.label.text.justify: left
