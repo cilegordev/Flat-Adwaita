@@ -11,8 +11,7 @@ headerbar {
   background-image: -gtk-scaled(url("assets/headerbar-logo.png")), url("assets/headerbar-logo@2.png");
   background-size: 150px, 150px;
   background-repeat: no-repeat, no-repeat;
-  background-position: left, right;
-  box-shadow: inset 0 1px rgba(238, 238, 236, 0.07), 0 1px 4px rgba(0, 0, 0, 0.75); }
+  background-position: left, right; }
   headerbar:backdrop {
     background-image: -gtk-scaled(url("assets/headerbar-logo.png")), url("assets/headerbar-logo@2.png");
     background-size: 150px, 150px;
@@ -2845,6 +2844,24 @@ entry selection, modelbutton.flat:selected,
     entry selection:disabled, modelbutton.flat:disabled:selected,
     .menuitem.button.flat:disabled:selected, spinbutton:not(.vertical) selection:disabled, treeview.view:disabled:selected, row:disabled:selected, calendar:disabled:selected {
       color: #93bbff; }
+    filechooser placessidebar.sidebar row.sidebar-row:selected:backdrop,
+    .nautilus-window placessidebar.sidebar row.sidebar-row:selected:backdrop, label:backdrop selection, label:backdrop:selected, .selection-mode button.titlebutton:backdrop, .view:backdrop:selected,
+    textview text:backdrop:selected:focus,
+    .view text:backdrop:selected,
+    textview text:backdrop:selected, .view text selection:backdrop,
+    textview text selection:backdrop:focus,
+    textview text selection:backdrop, iconview:backdrop:selected:focus, iconview:backdrop:selected, iconview text selection:backdrop:focus, iconview text selection:backdrop, flowbox flowboxchild:backdrop:selected,
+    entry selection:backdrop, modelbutton.flat:backdrop:selected,
+    .menuitem.button.flat:backdrop:selected, spinbutton:not(.vertical) selection:backdrop, treeview.view:backdrop:selected, row:backdrop:selected, calendar:backdrop:selected {
+      color: #d4d5d7; }
+      filechooser placessidebar.sidebar row.sidebar-row:disabled:selected:backdrop,
+      .nautilus-window placessidebar.sidebar row.sidebar-row:disabled:selected:backdrop, label:backdrop selection:disabled, label:backdrop:disabled:selected, .selection-mode button.titlebutton:backdrop:disabled, .view:backdrop:disabled:selected,
+      .view text:backdrop:disabled:selected,
+      textview text:backdrop:disabled:selected, .view text selection:backdrop:disabled,
+      textview text selection:backdrop:disabled, iconview:backdrop:disabled:selected, iconview text selection:backdrop:disabled, flowbox flowboxchild:backdrop:disabled:selected,
+      entry selection:backdrop:disabled, modelbutton.flat:backdrop:disabled:selected,
+      .menuitem.button.flat:backdrop:disabled:selected, spinbutton:not(.vertical) selection:backdrop:disabled, row:backdrop:disabled:selected, calendar:backdrop:disabled:selected {
+        color: #5b93f3; }
 
 .monospace {
   font-family: monospace; }
